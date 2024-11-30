@@ -30,10 +30,10 @@ const logo = document.getElementById('logo-bo6');
 
 const images = [
     
-    "../IMAGENES/D1.avif",       
-    "../IMAGENES/D2.jpg",    
-    "../IMAGENES/D3.jpg",   
-    "../IMAGENES/D4.jpg"     
+    "D1.avif",       
+    "IMAGENES/D2.jpg",    
+    "IMAGENES/D3.jpg",   
+    "IMAGENES/D4.jpg"     
     
 ];
 let currentImageIndex = 0;
